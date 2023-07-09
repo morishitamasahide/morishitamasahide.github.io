@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>example on Morishita Masahide&#39;s blog</title>
+    <link>https://morishitamasahide.github.io/tags/example/</link>
+    <description>Recent content in example on Morishita Masahide&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 09 Jul 2023 14:23:43 +0900</lastBuildDate><atom:link href="https://morishitamasahide.github.io/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HelloWorld</title>
+      <link>https://morishitamasahide.github.io/post/helloworld/</link>
+      <pubDate>Sun, 09 Jul 2023 14:23:43 +0900</pubDate>
+      
+      <guid>https://morishitamasahide.github.io/post/helloworld/</guid>
+      <description>The Summary Content</description>
+    </item>
+    
+  </channel>
+</rss>
